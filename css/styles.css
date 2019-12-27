@@ -496,6 +496,8 @@ footer {
   }
   .nav .enlaces-header a {
     color: #fff;
+    text-align: center;
+
   }
   .hambuerguer {
     display: block;
